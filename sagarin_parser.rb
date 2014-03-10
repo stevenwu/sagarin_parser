@@ -1,6 +1,4 @@
 class SagarinParser
-  attr_reader :results
-
   def initialize
     @results = {}
     @matches = []
